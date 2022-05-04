@@ -1,2 +1,2 @@
-# SQL Project
-Project for ISBA 4715
+# Web Scraping Bali Hotels on Booking.com
+SQL Project for ISBA 4715
