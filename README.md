@@ -1,5 +1,5 @@
 # Web Scraping Bali Hotels | Booking.com
-SQL Project for ISBA 4715
+### SQL Project for ISBA 4715
 
 ## Project Objective
 Booking.com wants to improve their customer experience by launching a new service to offer customers a helping hand in picking out the perfect hotel with our travel specialists. Instead of searching through filters and browsing through pages of hotels we want to test a new service that offers a personalised experience for each guest. Test this concept by curating a list of hotels for a given customer.
