@@ -22,11 +22,11 @@ The data was collected by conducting a web scrape of Booking.com’s hotel listi
 * avg_price_by_rating_category
 
 ## Notebooks
-[Data Collection](../blob/main/data_collection.ipynb)
-Purpose: To build a dataset of hotels in Bali through web scraping on Booking.com
+[Data Collection](./blob/main/data_collection.ipynb)
+* Purpose: To build a dataset of hotels in Bali through web scraping on Booking.com
 
-[SQL Analysis](../blob/main/sql_analysis.ipynb)
-Purpose: To perform descriptive analytics through exploratory queries and solve a business problem 
+[SQL Analysis](./blob/main/sql_analysis.ipynb)
+* Purpose: To perform descriptive analytics through exploratory queries and solve a business problem 
 
 ## Future Improvements
 Instead of only retrieving data from one date and for one guest I would have liked to scrape data from multiple dates to more accurately reflect hotel prices since price always varies for hotels depending on demand and seasons. With this type of data I would have more options to analyse patterns and trends from current, past, and future data. 
