@@ -1,4 +1,4 @@
-# Web Scraping Bali Hotels | Booking.com
+# Data Collection & SQL Analysis | Bali Hotels | Booking.com
 ### SQL Project for ISBA 4715
 
 ## Project Objective
