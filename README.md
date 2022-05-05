@@ -22,10 +22,10 @@ The data was collected by conducting a web scrape of Booking.com’s hotel listi
 * avg_price_by_rating_category
 
 ## Notebooks
-[Data Collection](./blob/main/data_collection.ipynb)
+[Data Collection](data_collection.ipynb)
 * Purpose: To build a dataset of hotels in Bali through web scraping on Booking.com
 
-[SQL Analysis](./blob/main/sql_analysis.ipynb)
+[SQL Analysis](sql_analysis.ipynb)
 * Purpose: To perform descriptive analytics through exploratory queries and solve a business problem 
 
 ## Future Improvements
