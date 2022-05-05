@@ -26,7 +26,7 @@ The data was collected by conducting a web scrape of Booking.com’s hotel listi
 * Purpose: To build a dataset of hotels in Bali through web scraping on Booking.com
 
 [SQL Analysis](sql_analysis.ipynb)
-* Purpose: To perform descriptive analytics through exploratory queries and solve a business problem 
+* Purpose: To perform descriptive analytics through exploratory queries (part 1) and solve a business problem (part 2)
 
 ## Future Improvements
 Instead of only retrieving data from one date and for one guest I would have liked to scrape data from multiple dates to more accurately reflect hotel prices since price always varies for hotels depending on demand and seasons. With this type of data I would have more options to analyse patterns and trends from current, past, and future data. 
